@@ -4,4 +4,4 @@ spring:
   profiles:
     active: dev
 config:
-  info: version5.0
+  info: version6.0
